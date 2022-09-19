@@ -1,0 +1,30 @@
+body {
+background-color: rgb(169, 171, 173);
+}
+p {border-style: groove; color: aqua; border-color: burlywood; }
+
+h1 {
+padding-left: 40px;
+
+}
+a{color: blueviolet;}
+
+.karte {border-style: double; color: blue; }
+.redtext {color: crimson;}
+#specialButton { background-color: chocolate;}
+div.pilnais{
+    min-height: 100px;
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+
+div.kreisais{
+    min-height: 50px;
+    background-color: red;
+}
+
+div.labais{
+    min-height: 50px;
+    background-color: green;
+}
